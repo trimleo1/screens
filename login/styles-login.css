@@ -1,0 +1,13 @@
+.fz-header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 16px;    
+}
+.fz-container {
+    width: 100%;
+} 
+.fz-between {
+    display: flex;
+    justify-content: space-between;
+}
